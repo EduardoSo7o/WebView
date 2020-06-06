@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="et_webPage_String">Type your URL</string>
+    <string name="btn_go_String">Go</string>
+    <string name="btn_goBack_String">Go back</string>
+</resources>
